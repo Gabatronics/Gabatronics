@@ -5,6 +5,11 @@
 <p align="left">My name is Gabriel and I'm a cs student at the Queensland University of Technology (QUT)</p>
 <p align="left">email: gabrielwong555@gmail.com</p>
 
+
+
+Download my leetcode extensionsion if you're prepping! : [leetcode extension](https://chromewebstore.google.com/detail/leetcode-example-constrai/mblpdeoffhjpmfcjebbikicpmagfhkkb?authuser=0&hl=en-GB)
+
+
 <h2 align="left">Experience</h2>
 
 
